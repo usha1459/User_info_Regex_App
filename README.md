@@ -21,15 +21,12 @@ This is a modern and visually styled Streamlit web app for collecting **user inf
 ---
 
 ## 📁 Project Structure
-
+```bash
 User_Info_Regex_App/
 ├── app.py # Main Streamlit app
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation (this file)
-
-yaml
-Copy
-Edit
+````
 
 ---
 
@@ -38,21 +35,23 @@ Edit
 1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-Run the Streamlit app
-
-bash
-Copy
-Edit
+   ```
+   
+2. Run the Streamlit app
+``` bash
 streamlit run app.py
+```
 📦 Requirements
 Contents of requirements.txt:
-
+``` bash
 nginx
 Copy
 Edit
 streamlit
 fpdf
 pandas
+```
+
 📄 Output Example
 After submission, the user can:
 
@@ -73,5 +72,5 @@ DOB	Must be at least 18 years old
 
 👤 Author
 Prathyusha Kopur
-🔗 GitHub: usha1459
+🔗 GitHub: usha1459(https://github.com/usha1459)
 
